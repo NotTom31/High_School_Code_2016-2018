@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\tmezzie23558\documents\visual studio 2015\projects\lesson_1\lesson_1\source.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\tmezzie23558\documents\visual studio 2015\projects\lesson_1\lesson_1\source.cpp(18): warning C4101: 'randomNumber': unreferenced local variable
+  Lesson_1.vcxproj -> C:\Users\tmezzie23558\Documents\Visual Studio 2015\Projects\Lesson_1\Debug\Lesson_1.exe
+  Lesson_1.vcxproj -> C:\Users\tmezzie23558\Documents\Visual Studio 2015\Projects\Lesson_1\Debug\Lesson_1.pdb (Partial PDB)

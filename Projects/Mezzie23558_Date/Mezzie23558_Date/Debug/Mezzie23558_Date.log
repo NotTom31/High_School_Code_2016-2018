@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\tmezzie23558\documents\visual studio 2015\projects\mezzie23558_date\mezzie23558_date\source.cpp(100): warning C4101: 'slash2': unreferenced local variable
+  Mezzie23558_Date.vcxproj -> C:\Users\tmezzie23558\Documents\Visual Studio 2015\Projects\Mezzie23558_Date\Debug\Mezzie23558_Date.exe
+  Mezzie23558_Date.vcxproj -> C:\Users\tmezzie23558\Documents\Visual Studio 2015\Projects\Mezzie23558_Date\Debug\Mezzie23558_Date.pdb (Partial PDB)

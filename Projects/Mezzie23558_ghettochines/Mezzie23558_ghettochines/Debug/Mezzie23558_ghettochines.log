@@ -1,0 +1,7 @@
+﻿  VendingMachine.cpp
+c:\users\tmezzie23558\documents\visual studio 2015\projects\mezzie23558_ghettochines\mezzie23558_ghettochines\vendingmachine.h(6): error C3646: 'itemName': unknown override specifier
+c:\users\tmezzie23558\documents\visual studio 2015\projects\mezzie23558_ghettochines\mezzie23558_ghettochines\vendingmachine.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Source.cpp
+c:\users\tmezzie23558\documents\visual studio 2015\projects\mezzie23558_ghettochines\mezzie23558_ghettochines\vendingmachine.h(6): error C3646: 'itemName': unknown override specifier
+c:\users\tmezzie23558\documents\visual studio 2015\projects\mezzie23558_ghettochines\mezzie23558_ghettochines\vendingmachine.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...

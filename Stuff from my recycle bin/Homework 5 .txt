@@ -1,0 +1,74 @@
+﻿Problem 1: 
+1. Selection, Repetition
+2. case , default
+3. For, Initialization, condition, increment
+4. Condition
+5. Break
+6. Continue 
+7. Logical operators
+8. ==, =>, =<
+9. == , !=, relational operator
+10. Error? That doesn’t feel like the right answer but the question is weirdly worded
+Problem 2:
+1. False
+2. False
+3. False
+4. False 
+5. False
+6. True
+7. False 
+Problem 3:
+1. Switch statements are similar to repetition control structures because both can ask questions that determine whether or not to run certain code. They are different because switch statements can not loop to ask a question again until it gets a valid response.
+2. Both the for statement and while statement are able to create counter controlled loops, they are different because for loops can’t do sentinel controlled loops
+3. The default can be used to catch user errors or other unexpected answers.
+4. If it is in the main body then the break or continue statements will run every time. If you really need to have a break or continue statement that runs no matter what there is probably something wrong with your logic.
+5. And: 
+x
+	y
+	
+
+	0
+	0
+	0
+	1
+	0
+	0
+	0
+	1
+	0
+	1
+	1
+	1
+	Or: 
+x
+	y
+	
+
+	0
+	0
+	0
+	1
+	0
+	1
+	0
+	1
+	1
+	1
+	1
+	1
+	Not: 
+x
+	
+
+	1
+	0
+	0
+	1
+	1.  not then and then or, The 3 logical operators are left to right
+2. When you swap = with ==, you could be asking a question when you mean to assign a value to something. This is hard to catch because the code will compile with the error. When making an if statement you could do (7 == x) instead of (x == 7) so that the compiler can catch the mistake
+3. How is “Counter-controlled repetition uses a sentinel value in its loop-continuing condition” a question? Was this supposed to be in the true/false section? Its false, it uses a counter controlled value.
+4. Because people will expect all of the incrementing of the for statement to take place in the 1st line and it could make it less readable. 
+5. Single entry single exit means that there are no other ways to enter or exit the code. If you were to use go to or break to enter or exit a control structure it is no longer single entrance or single exit
+Problem 8:
+1. If ((x >=4 && x <= 6 && y >= 1 && y <= 4) || (x >=0 && x <= 7 && y >= 5 && y <= 7) || (x >=6 && x <= 10 && y >= 8 && y <= 10))
+2. If (x >=7 && x <= 3 && y >= 7 && y <= 3)
