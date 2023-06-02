@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\mrair\documents\visual studio 2015\projects\thething\thething\source.cpp(20): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\mrair\documents\visual studio 2015\projects\thething\thething\source.cpp(20): warning C4309: 'initializing': truncation of constant value
+  TheThing.vcxproj -> c:\users\mrair\documents\visual studio 2015\Projects\TheThing\Debug\TheThing.exe
+  TheThing.vcxproj -> c:\users\mrair\documents\visual studio 2015\Projects\TheThing\Debug\TheThing.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\mrair\documents\visual studio 2015\projects\mezzie23558_tictactoe\mezzie23558_tictactoe\source.cpp(18): warning C4838: conversion from 'int' to 'char' requires a narrowing conversion
+c:\users\mrair\documents\visual studio 2015\projects\mezzie23558_tictactoe\mezzie23558_tictactoe\source.cpp(18): warning C4309: 'initializing': truncation of constant value
+  Mezzie23558_TicTacToe.vcxproj -> C:\Users\mrair\Documents\Visual Studio 2015\Projects\Mezzie23558_TicTacToe\Debug\Mezzie23558_TicTacToe.exe
+  Mezzie23558_TicTacToe.vcxproj -> C:\Users\mrair\Documents\Visual Studio 2015\Projects\Mezzie23558_TicTacToe\Debug\Mezzie23558_TicTacToe.pdb (Partial PDB)
